@@ -1,6 +1,9 @@
+
 # On Sale plugin for Craft CMS
 
-Exposes some basic sales information on an individual product
+### Get sales information for an individual product
+Exposes some basic sales information on an individual product.
+
 
 ![Screenshot](resources/screenshots/plugin_logo.png)
 
@@ -41,3 +44,4 @@ Some things to do, and ideas for potential features:
 * Initial release
 
 Brought to you by [Amit Erandole](github.com/amite)
+
