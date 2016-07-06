@@ -1,0 +1,14 @@
+{
+	"name": "amite/onsale",
+	"description": "Exposes some basic sales information on an individual product",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Amit Erandole",
+			"homepage": "github.com/amite"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
